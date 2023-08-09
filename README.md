@@ -14,12 +14,12 @@ BSPatches for some of the Mega Drive Mini 2 (Genesis Mini 2) Exclusive Games
      - jp_jp_star_mobile.smd
      - us_us_star_mobile.smd
 5. Run the following commands in Linux:
-       bspatch jp_jp_3rin_3chan.smd Spatter.md jp_jp_3rin_3chan.bsdiff
-       bspatch jp_jp_devil_and_pii.smd "Devil and Pii.md" jp_jp_devil_and_pii.bsdiff
-       bspatch jp_jp_Fantasy_Zone.smd "Fantasy Zone.md" jp_jp_Fantasy_Zone.bsdiff
-       bspatch jp_jp_s_locomotive.smd "Super Locomotive.md" jp_jp_s_locomotive.bsdiff
-       bspatch jp_jp_star_mobile.smd "Star Mobile (Japan).md" jp_jp_star_mobile.bsdiff
-       bspatch us_us_star_mobile.smd "Star Mobile (USA).md" us_us_star_mobile.bspatch
+     - ```bspatch jp_jp_3rin_3chan.smd Spatter.md jp_jp_3rin_3chan.bsdiff```
+     - ```bspatch jp_jp_devil_and_pii.smd "Devil and Pii.md" jp_jp_devil_and_pii.bsdiff```
+     - ```bspatch jp_jp_Fantasy_Zone.smd "Fantasy Zone.md" jp_jp_Fantasy_Zone.bsdiff```
+     - ```bspatch jp_jp_s_locomotive.smd "Super Locomotive.md" jp_jp_s_locomotive.bsdiff```
+     - ```bspatch jp_jp_star_mobile.smd "Star Mobile (Japan).md" jp_jp_star_mobile.bsdiff```
+     - ```bspatch us_us_star_mobile.smd "Star Mobile (USA).md" us_us_star_mobile.bspatch```
 6. Load the new files in a Mega Drive/Genesis Emulator and hope that this works.
 
 # Licensing
