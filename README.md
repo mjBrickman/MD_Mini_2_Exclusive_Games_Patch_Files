@@ -2,7 +2,7 @@
 BSPatches for some of the Mega Drive Mini 2 (Genesis Mini 2) Exclusive Games
 
 
-#Instructions
+# Instructions
 1. In order to patch the games with these files, bsdiff needs to be installed: https://github.com/mendsley/bsdiff/tags
 2. In order to get the games that need to be patched, you need to extract them from the MD Mini 2. Here is a link to get started: https://github.com/farmerbb/RED-Project/discussions/56
 3. Download and extract this repository. (Hit the green code button on the main page and then download zip or use git commands).
@@ -22,5 +22,5 @@ BSPatches for some of the Mega Drive Mini 2 (Genesis Mini 2) Exclusive Games
        bspatch us_us_star_mobile.smd "Star Mobile (USA).md" us_us_star_mobile.bspatch
 6. Load the new files in a Mega Drive/Genesis Emulator and hope that this works.
 
-#Licensing
+# Licensing
 There is no licensing because I was not the person who originally patched the ROMs to work in third party emulators.
