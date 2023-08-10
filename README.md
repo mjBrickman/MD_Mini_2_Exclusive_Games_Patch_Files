@@ -25,4 +25,4 @@ Do not expect VS. Puyo Puyo Sun to be added in the future.
 6. Load the new files in a Mega Drive/Genesis Emulator and hope that this works.
 
 # Licensing
-There is no licensing because I was not the person who originally patched the ROMs to work in third party emulators.
+There is no licensing because I was not the person who originally patched the ROMs to work in third party emulators. If you are the person who created the original patched ROMs and want this repository taken down, please feel free to tell me in an issue.
