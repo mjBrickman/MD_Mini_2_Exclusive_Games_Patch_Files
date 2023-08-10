@@ -1,6 +1,6 @@
 # MD_Mini_2_Exclusive_Games_Patch_Files
 This repository contains bspatches for some of the Mega Drive Mini 2 (Genesis Mini 2) exclusive games so they can be run in third party emulators 
-I can't add files for After Burner 1 & 2 because they run on imaginary hardware and currently cannot be emulated.
+I can't add files for Space Harrier 1 & 2 because they run on imaginary hardware and currently cannot be emulated.
 Do not expect VS. Puyo Puyo Sun to be added in the future.
 
 
