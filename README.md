@@ -26,7 +26,7 @@ Do not expect VS. Puyo Puyo Sun to be fully functional in the future.
      - ```bspatch jp_jp_s_locomotive.smd "Super Locomotive.md" jp_jp_s_locomotive.bsdiff```
      - ```bspatch jp_jp_star_mobile.smd "Star Mobile (Japan).md" jp_jp_star_mobile.bsdiff```
      - ```bspatch us_us_puyopuyosun.smd "VS Puyo Puyo Sun (USA).md" us_us_puyopuyosun.bsdiff```
-     - ```bspatch us_us_star_mobile.smd "Star Mobile (USA).md" us_us_star_mobile.bspatch```
+     - ```bspatch us_us_star_mobile.smd "Star Mobile (USA).md" us_us_star_mobile.bsdiff```
 6. Load the new files in a Mega Drive/Genesis Emulator and hope that this works.
 
 # Licensing
