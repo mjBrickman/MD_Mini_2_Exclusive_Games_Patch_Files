@@ -1,8 +1,6 @@
 # MD_Mini_2_Exclusive_Games_Patch_Files
 This repository contains bspatches for some of the Mega Drive Mini 2 (Genesis Mini 2) exclusive games so they can be run in third party emulators 
 I can't add files for Space Harrier 1 & 2 because they run on imaginary hardware and currently cannot be emulated.
-The patches for Vs. Puyo Puyo Sun do not make the game fully functional. The games with the applied patches are still playable, however.
-Do not expect VS. Puyo Puyo Sun to be fully functional in the future.
 
 
 # Instructions
